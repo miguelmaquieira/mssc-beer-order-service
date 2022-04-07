@@ -12,10 +12,6 @@
     <name>mssc-beer-order-service</name>
     <description>MSSC Beer Order Service</description>
 
-    <properties>
-        <jaxb.version>2.3.0</jaxb.version>
-    </properties>
-
     <dependencies>
         <dependency>
             <groupId>javax.xml.bind</groupId>
